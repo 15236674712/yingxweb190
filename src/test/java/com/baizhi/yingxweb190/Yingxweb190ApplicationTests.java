@@ -11,7 +11,10 @@ public class Yingxweb190ApplicationTests {
 
     @Test
     public void contextLoads() {
-        System.out.println("===这是开发者A提交的代码====")
+        System.out.println("===这是开发者A提交的代码====");
+
+        int a=10;
+        int b=20;
     }
 
 }
